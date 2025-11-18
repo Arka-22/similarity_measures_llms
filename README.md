@@ -8,7 +8,7 @@ deepseek_2k_RP_test.parquet
 
 Models used : 
 
-1) "causality-grammar/bart-base-fullfinetuned_40k"
+1) causality-grammar/bart-base-fullfinetuned_40k
 2) Amartya77/flan-t5-base-cot-full-finetuned_40k_wor
 3) causality-grammar/qwen3-1.7B-fullfinetuned
 
