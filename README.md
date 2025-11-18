@@ -17,10 +17,10 @@ To check the similarity scores for 3 model run the qwen.py file
 
 
 Flow of the code :
-Examples are extracted depth wise ( from 4 to 11 )
-The proof chain is given in a cumulative manner to the model to get the last hidden state
-The curvature similarities are calcualted for every pair and the mean is calcualted per depth level
+1) Examples are extracted depth wise ( from 4 to 11 )
+2) The proof chain is given in a cumulative manner to the model to get the last hidden state
+3) The curvature similarities are calcualted for every pair and the mean is calcualted per depth level
 
 To do : 
-Implement scripts to pass arguments like model name through cmd prompt
-Optimize and clean the code
+1) Implement scripts to pass arguments like model name through cmd prompt
+2) Optimize and clean the code
