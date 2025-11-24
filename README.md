@@ -17,7 +17,7 @@ To check the similarity scores for 3 model run the qwen.py file
 
 
 Flow of the code :
-1) Examples are extracted depth wise ( from 4 to 11 )
+1) Examples are extracted depth wise ( from 6 to 11 )
 2) The proof chain is given in a cumulative manner to the model to get the last hidden state
 3) The curvature similarities are calcualted for every pair and the mean is calcualted per depth level
 
