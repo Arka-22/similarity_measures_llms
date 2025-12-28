@@ -24,3 +24,14 @@ Flow of the code :
 To do : 
 1) Implement scripts to pass arguments like model name through cmd prompt
 2) Optimize and clean the code
+
+
+Results : 
+
+Depth              Bart                 Flan-T5
+6			0.73			  0.80
+7			0.71			  0.77	
+8			0.67			  0.74
+9			0.64			  0.72
+10			0.62			  0.70
+11			0.62			  0.70
